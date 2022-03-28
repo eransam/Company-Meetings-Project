@@ -1,0 +1,4 @@
+.Meething > div {
+	display: flex;
+    justify-content: center;
+}
